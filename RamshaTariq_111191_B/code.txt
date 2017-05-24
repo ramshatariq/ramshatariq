@@ -1,0 +1,24 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication2;
+import org.hudoop.package
+/**
+ *
+ * @author rtariq.bese14seecs
+ */
+add(hudoop) h;h.Sytem.out.println("enter input file");
+file *ptr=f.fopen_s("f.txt");
+port(2700);
+public class JavaApplication2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //
+    }
+    
+}
