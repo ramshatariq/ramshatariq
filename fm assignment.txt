@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE nta PUBLIC '-//Uppaal Team//DTD Flat System 1.1//EN' 'http://www.it.uu.se/research/group/darts/uppaal/flat-1_1.dtd'><nta><declaration>// Place global declarations here.
+</declaration><template><name x="5" y="5">Light</name><declaration>// Place local declarations here.
+</declaration><location id="id0" x="256" y="-32"><name x="246" y="-62">Bright</name></location><location id="id1" x="128" y="-32"><name x="118" y="-62">Light</name></location><location id="id2" x="16" y="-32"><name x="6" y="-62">Off</name></location><init ref="id2"/><transition><source ref="id0"/><target ref="id2"/><nail x="144" y="-152"/></transition><transition><source ref="id1"/><target ref="id2"/><nail x="80" y="48"/></transition><transition><source ref="id1"/><target ref="id0"/></transition><transition><source ref="id2"/><target ref="id1"/></transition></template><system>// Place template instantiations here.
+
+system Light;</system></nta>
